@@ -1,0 +1,31 @@
+Tests
+config.json
+config.json.log
+find.log
+names.txt
+test.py
+total 16
+drwxrwxrwx 1 root root  512 Oct  3 01:07 .
+drwxrwxrwx 1 root root  512 Oct  3 00:03 ..
+drwxrwxrwx 1 root root  512 Oct  3 01:07 Tests
+-rwxrwxrwx 1 root root  720 Oct  3 00:01 config.json
+-rwxrwxrwx 1 root root    0 Oct  2 23:57 config.json.log
+-rwxrwxrwx 1 root root   50 Oct  3 00:43 find.log
+-rwxrwxrwx 1 root root   52 Oct  3 00:01 names.txt
+-rwxrwxrwx 1 root root 9064 Oct  3 00:01 test.py
+        "easy": 30,
+        "advanced": 30
+    "default_timeout": 3,
+ls='echo ls'
+ls
+ls
+ll='ls -la'
+grep='grep --color=auto'
+grep='grep --color=auto'
+gs='git status'
+grep='grep --color=auto'
+hello
+/home/os-fall-2023/code/test
+grep='grep --color=auto'
+gs='git status'
+hello='echo hello'

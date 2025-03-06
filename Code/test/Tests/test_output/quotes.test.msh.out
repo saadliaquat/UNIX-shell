@@ -1,0 +1,13 @@
+   27 ../include/utils.h
+   88 ../include/log.h
+ 1447 ../src/main.c
+ 1562 total
+   27 ../include/utils.h
+   88 ../include/log.h
+ 1447 ../src/main.c
+ 1562 total
+27+88+1447+1562
+../include/log.h
+../include/utils.h
+../src/main.c
+*.c
